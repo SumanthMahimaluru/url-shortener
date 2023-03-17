@@ -1,0 +1,11 @@
+{
+    "port":"9000",
+    "host":"localhost",
+    "db":{
+        "user":"nviera",
+        "host":"localhost",
+        "port":"3306",
+        "password":"nviera@123",
+        "dbname":"testdb"
+    }
+}
